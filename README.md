@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Hritik Pandey 👋</h1>
 
 <p align="center">
-  2nd Year B.Tech IT Student @ VESIT | Web Developer | Problem Solver
+  2nd Year B.Tech IT Student @ VESIT
 </p>
 
 <p align="center">
