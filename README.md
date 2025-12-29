@@ -1,21 +1,3 @@
-<h1 align="center">Hi 👋, I'm Hritik Pandey</h1>
-<h3 align="center">A second-year B.Tech student at VESIT</h3>
-
-# 💫 About Me:
-
-- 🔭 I’m currently working on [Wellfino](https://wellfinopharmaceutical.in/)
-
-- 🌱 I’m currently learning **DSA**
-
-- 👨‍💻 All of my projects are available at [hritrick.vercel.app](hritrick.vercel.app)
-
-- 📫 You can reach me at **hritiksp21@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1BcRmiYKvcUK4Oi_EryhqJ4qZfIgtFI7NpLRndBwGwJg/edit?usp=sharing)
-
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
@@ -75,9 +57,12 @@
   
 </div>
 
+###
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
+</div>
 ###
