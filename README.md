@@ -24,10 +24,6 @@
   <span><b>Jr. Webtech Officer</b> (Oct 2025 – Present)</span>
 </div>
 
-
-
-<h2 align="left">I code with</h2>
-
 ###
 
 <div align="left">
