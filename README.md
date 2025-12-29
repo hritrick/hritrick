@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <p align="center">
-  <img src="hero-portrait.png" width="160" style="border-radius: 50%;" />
+  <img src="images/hero-portrait.png" width="160" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Hritik Pandey 👋</h1>
