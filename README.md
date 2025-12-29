@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32DE84&height=120&section=header" alt="header"/>
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -52,4 +54,6 @@
   
 </div>
 
-###
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32DE84&height=120&section=footer" alt="footer"/>
