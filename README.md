@@ -2,8 +2,7 @@
 <h3 align="center">An aspiring software engineer from India</h3>
 
 # 💫 About Me:
-Experience<br>1. Web Development Intern at Print N Options (Oct 2025 - Present)<br>Skills: Next.js, Node.js, Express.js, MongoDB, Git/Github.<br><br>2. Data Lead at Training & Placement Cell, VESIT (Sept 2025 - Present)<br>Skills: Microsoft Excel.<br><br>College Council<br>Jr. Webtech Officer at CSI-VESIT (Oct 2025 - Present)<br>• Contributing to the development and maintenance of CSI projects, and supporting the organization of technical events and workshops for students.<br><br>Education<br>2nd year student pursuing B.Tech in Information Technology at Vivekanand Education Society’s Institute of Technology (VESIT) 2024-2028<br>CGPA: 9.42 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hritiksp21@gmail.com)
-
+Experience<br>1. Web Development Intern at Print N Options (Oct 2025 - Present)<br>Skills: Next.js, Node.js, Express.js, MongoDB, Git/Github.<br><br>2. Data Lead at Training & Placement Cell, VESIT (Sept 2025 - Present)<br>Skills: Microsoft Excel.<br><br>College Council<br>Jr. Webtech Officer at CSI-VESIT (Oct 2025 - Present)<br>• Contributing to the development and maintenance of CSI projects, and supporting the organization of technical events and workshops for students.<br><br>Education<br>2nd year student pursuing B.Tech in Information Technology at Vivekanand Education Society’s Institute of Technology (VESIT) 2024-2028<br>CGPA: 9.42 
 
 - 🔭 I’m currently working on [Wellfino](https://wellfinopharmaceutical.in/)
 
@@ -11,7 +10,7 @@ Experience<br>1. Web Development Intern at Print N Options (Oct 2025 - Present)<
 
 - 👨‍💻 All of my projects are available at [hritrick.vercel.app](hritrick.vercel.app)
 
-- 📫 How to reach me **hritiksp21@gmail.com**
+- 📫 How to reach me **hritiksp21@gmail.com** [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hritiksp21@gmail.com)
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1BcRmiYKvcUK4Oi_EryhqJ4qZfIgtFI7NpLRndBwGwJg/edit?usp=sharing](https://docs.google.com/document/d/1BcRmiYKvcUK4Oi_EryhqJ4qZfIgtFI7NpLRndBwGwJg/edit?usp=sharing)
 
