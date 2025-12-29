@@ -10,7 +10,7 @@ Experience<br>1. Web Development Intern at Print N Options (Oct 2025 - Present)<
 
 - 👨‍💻 All of my projects are available at [hritrick.vercel.app](hritrick.vercel.app)
 
-- 📫 You can reach me at **hritiksp21@gmail.com** [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hritiksp21@gmail.com)
+- 📫 You can reach me at **hritiksp21@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1BcRmiYKvcUK4Oi_EryhqJ4qZfIgtFI7NpLRndBwGwJg/edit?usp=sharing)
 
