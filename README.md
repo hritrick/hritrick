@@ -1,26 +1,29 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32DE84&height=120&section=header" alt="header"/>
 
-<p>
+<!-- Web Development Intern -->
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:14px;">
   <a href="https://www.printnoptions.com/">
-    <img src="assets/print-n-options-logo.png" height="30"/>
+    <img src="assets/print-n-options-logo.png" height="25"/>
   </a>
-  <b>Web Development Intern</b>
-  <span>(Oct 2025 – Present)</span>
-</p>
-<p>
+  <span><b>Web Development Intern</b> (Oct 2025 – Present)</span>
+</div>
+
+<!-- Data Lead -->
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:14px;">
   <a href="https://vesit.ves.ac.in/">
-    <img src="assets/vesit-logo.jpg" height="30"/>
+    <img src="assets/vesit-logo.jpg" height="25"/>
   </a>
-  <b>Data Lead @ TPC</b>
-  <span>(Sept 2025 – Present)</span>
-</p>
-<p>
+  <span><b>Data Lead @ TPC</b> (Sept 2025 – Present)</span>
+</div>
+
+<!-- Jr Webtech Officer -->
+<div style="display:flex; align-items:center; gap:12px;">
   <a href="https://csivesit.in">
-    <img src="assets/csi-logo.jpg" height="30"/>
+    <img src="assets/csi-logo.jpg" height="25"/>
   </a>
-  <b>Jr. Webtech Officer</b>
-  <span>(Oct 2025 – Present)</span>
-</p>
+  <span><b>Jr. Webtech Officer</b> (Oct 2025 – Present)</span>
+</div>
+
 
 
 <h2 align="left">I code with</h2>
