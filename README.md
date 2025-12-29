@@ -1,22 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32DE84&height=120&section=header" alt="header"/>
 
 <p style="display:flex; align-items:center; gap:14px; white-space:nowrap;">
-  <b>Web Development Intern</b>
   <a href="https://www.printnoptions.com/">
     <img src="assets/print-n-options-logo.png" height="30"/>
   </a>
+  <b>Web Development Intern</b>
   <span>(Oct 2025 – Present)</span>
 
-  <b>Data Lead @ TPC</b>
   <a href="https://vesit.ves.ac.in/">
     <img src="assets/vesit-logo.jpg" height="30"/>
   </a>
+  <b>Data Lead @ TPC</b>
   <span>(Sept 2025 – Present)</span>
 
-  • 💻 <b>Jr. Webtech Officer</b>
   <a href="https://csivesit.in">
     <img src="assets/csi-logo.jpg" height="30"/>
   </a>
+  <b>Jr. Webtech Officer</b>
   <span>(Oct 2025 – Present)</span>
 </p>
 
