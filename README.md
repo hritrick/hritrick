@@ -1,23 +1,24 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32DE84&height=120&section=header" alt="header"/>
 
-### 💼 Web Development Intern  
-[![Print N Options](assets/print-n-options-logo.png)](https://www.printnoptions.com/)  
-**Print N Options**  
-📅 *Oct 2025 – Present*
+<p style="display:flex; align-items:center; gap:14px; white-space:nowrap;">
+  💼 <b>Web Development Intern</b>
+  <a href="https://www.printnoptions.com/">
+    <img src="assets/print-n-options-logo.png" height="22"/>
+  </a>
+  <span>(Oct 2025 – Present)</span>
 
----
+  • 📊 <b>Data Lead – T&P Cell</b>
+  <a href="https://vesit.ves.ac.in/">
+    <img src="assets/vesit-logo.jpg" height="22"/>
+  </a>
+  <span>(Sept 2025 – Present)</span>
 
-### 📊 Data Lead – Training & Placement Cell  
-[![VESIT](assets/vesit-logo.jpg)](https://vesit.ves.ac.in/)  
-**Vivekanand Education Society’s Institute of Technology**  
-📅 *Sept 2025 – Present*
-
----
-
-### 💻 Jr. Webtech Officer  
-[![CSI VESIT](assets/csi-logo.jpg)](https://csivesit.in)  
-**Computer Society of India – VESIT**  
-📅 *Oct 2025 – Present*
+  • 💻 <b>Jr. Webtech Officer</b>
+  <a href="https://csivesit.in">
+    <img src="assets/csi-logo.jpg" height="22"/>
+  </a>
+  <span>(Oct 2025 – Present)</span>
+</p>
 
 
 <h2 align="left">I code with</h2>
