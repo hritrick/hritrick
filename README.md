@@ -58,5 +58,21 @@
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
 </div>
 
+###
+
+<div align="center">
+
+<picture>
+  <!-- Dark mode snake -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthnarkar/parthnarkar/output/github-contribution-grid-snake-dark.svg" />
+
+  <!-- Light mode snake -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parthnarkar/parthnarkar/output/github-contribution-grid-snake.svg" />
+
+  <!-- Fallback (light mode) -->
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/parthnarkar/parthnarkar/output/github-contribution-grid-snake.svg" />
+</picture>
+  
+</div>
 
 ###
