@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hritiksp21@gmail.com">📧 Email</a> •
-  <a href="https://github.com/">💻 GitHub</a> •
-  <a href="https://linkedin.com/">🔗 LinkedIn</a>
+  <a href="mailto:hritiksp21@gmail.com">📧 Email</a>
 </p>
 
 ---
