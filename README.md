@@ -6,13 +6,15 @@
   </a>
   <b>Web Development Intern</b>
   <span>(Oct 2025 – Present)</span>
-
+</p>
+<p>
   <a href="https://vesit.ves.ac.in/">
     <img src="assets/vesit-logo.jpg" height="30"/>
   </a>
   <b>Data Lead @ TPC</b>
   <span>(Sept 2025 – Present)</span>
-
+</p>
+<p>
   <a href="https://csivesit.in">
     <img src="assets/csi-logo.jpg" height="30"/>
   </a>
