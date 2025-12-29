@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hritik Pandey</h1>
-<h3 align="center">An aspiring software engineer from India</h3>
+<h3 align="center">A second-year B.Tech student at VESIT</h3>
 
 # 💫 About Me:
-Experience<br>1. Web Development Intern at Print N Options (Oct 2025 - Present)<br>Skills: Next.js, Node.js, Express.js, MongoDB, Git/Github.<br><br>2. Data Lead at Training & Placement Cell, VESIT (Sept 2025 - Present)<br>Skills: Microsoft Excel.<br><br>College Council<br>Jr. Webtech Officer at CSI-VESIT (Oct 2025 - Present)<br>• Contributing to the development and maintenance of CSI projects, and supporting the organization of technical events and workshops for students.<br><br>Education<br>2nd year student pursuing B.Tech in Information Technology at Vivekanand Education Society’s Institute of Technology (VESIT) 2024-2028<br>CGPA: 9.42 
 
 - 🔭 I’m currently working on [Wellfino](https://wellfinopharmaceutical.in/)
 
@@ -14,21 +13,6 @@ Experience<br>1. Web Development Intern at Print N Options (Oct 2025 - Present)<
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1BcRmiYKvcUK4Oi_EryhqJ4qZfIgtFI7NpLRndBwGwJg/edit?usp=sharing)
 
-<h1 align="center">Hi, I'm Hritik Pandey</h1>
-
-###
-
-<br clear="both">
-
-<p align="center">A second-year B.Tech student at VESIT</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
