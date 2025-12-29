@@ -12,7 +12,7 @@ Experience<br>1. Web Development Intern at Print N Options (Oct 2025 - Present)<
 
 - 📫 How to reach me **hritiksp21@gmail.com** [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hritiksp21@gmail.com)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1BcRmiYKvcUK4Oi_EryhqJ4qZfIgtFI7NpLRndBwGwJg/edit?usp=sharing](https://docs.google.com/document/d/1BcRmiYKvcUK4Oi_EryhqJ4qZfIgtFI7NpLRndBwGwJg/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1BcRmiYKvcUK4Oi_EryhqJ4qZfIgtFI7NpLRndBwGwJg/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
