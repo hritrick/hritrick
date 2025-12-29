@@ -1,87 +1,17 @@
-<!-- Hero Section -->
-<p align="center">
-  <img src="images/hero-portrait.png" width="160" style="border-radius: 50%;" />
-</p>
+# 💫 About Me:
+Experience<br>1. Web Development Intern at Print N Options (Oct 2025 - Present)<br>Skills: Next.js, Node.js, Express.js, MongoDB, Git/Github.<br><br>2. Data Lead at Training & Placement Cell, VESIT (Sept 2025 - Present)<br>Skills: Microsoft Excel.<br><br>College Council<br>Jr. Webtech Officer at CSI-VESIT (Oct 2025 - Present)<br>• Contributing to the development and maintenance of CSI projects, and supporting the organization of technical events and workshops for students.<br><br>Education<br>2nd year student pursuing B.Tech in Information Technology at Vivekanand Education Society’s Institute of Technology (VESIT) 2024-2028<br>CGPA: 9.42
 
-<h1 align="center">Hi, I'm Hritik Pandey 👋</h1>
 
-<p align="center">
-  2nd Year B.Tech IT Student @ VESIT
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hritikp21) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hritikpandeyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/hritikpandey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hritikpandeyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hritiksp21@gmail.com) 
 
-<p align="center">
-  <a href="mailto:hritiksp21@gmail.com">📧 Email</a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hritrick&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hritrick&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hritrick&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+![](https://github-profile-trophy.vercel.app/?username=hritrick&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
-## 👨‍💻 About Me
-
-- 🎓 **B.Tech in Information Technology** at **Vivekanand Education Society’s Institute of Technology (VESIT)**  
-- 📊 **CGPA:** 9.42  
-- 💡 Passionate about **building real-world web products** and scalable systems  
-- 🚀 Actively working with **modern full-stack technologies**
-
-<p align="center">
-  <img src="vesit-building.jpeg" width="600"/>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-- JavaScript, TypeScript  
-- React.js, Next.js  
-- Tailwind CSS  
-
-**Backend**
-- Node.js, Express.js  
-- Django, FastAPI  
-
-**Databases**
-- MongoDB, MySQL  
-
-**Languages**
-- Java, C, Python  
-
-**Tools**
-- Git, GitHub, Netlify, Vercel
-
----
-
-## 💼 Experience
-
-### 🌐 Web Development Intern  
-**Print N Options** _(Oct 2025 – Present)_
-
-<p align="left">
-  <img src="print-n-options-logo.png" width="140"/>
-</p>
-
-- Working on full-stack web development using **Next.js, Node.js, Express.js, MongoDB**
-- Collaborating using **Git/GitHub** in a production environment
-- Building scalable and maintainable features for live systems
-
----
-
-### 📊 Data Lead  
-**Training & Placement Cell, VESIT** _(Sept 2025 – Present)_
-
-- Managing and analyzing placement-related datasets  
-- Leveraging **Microsoft Excel** for data organization and insights
-
----
-
-## 🏫 College Council & Leadership
-
-### 💻 Jr. Web-Tech Officer  
-**Computer Society of India – VESIT** _(Oct 2025 – Present)_
-
-<p align="left">
-  <img src="csi-logo.jpg" width="120"/>
-</p>
-
-- Contributing to development and maintenance of CSI technical projects  
-- Supporting technical events, workshops, and student initiatives  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
