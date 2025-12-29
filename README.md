@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32DE84&height=120&section=header" alt="header"/>
 
-<p style="display:flex; align-items:center; gap:14px; white-space:nowrap;">
+<p>
   <a href="https://www.printnoptions.com/">
     <img src="assets/print-n-options-logo.png" height="30"/>
   </a>
