@@ -5,7 +5,7 @@
   <a href="https://www.printnoptions.com/">
     <img src="assets/print-n-options-logo.png" height="25"/>
   </a>
-  <span><b>Web Development Intern</b> (Oct 2025 – Present)</span>
+  <span><b>SDE Intern</b> (Oct 2025 – Present)</span>
 </div>
 
 <!-- Data Lead -->
