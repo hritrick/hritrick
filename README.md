@@ -1,19 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32DE84&height=120&section=header" alt="header"/>
 
 <!-- Web Development Intern -->
-<div style="display:flex; align-items:center; gap:12px; margin-bottom:14px;">
-  <a href="https://www.printnoptions.com/">
-    <img src="assets/print-n-options-logo.png" height="25"/>
-  </a>
-  <span><b>SDE Intern</b> (Oct 2025 – Present)</span>
-</div>
-
 <!-- Data Lead -->
 <div style="display:flex; align-items:center; gap:12px; margin-bottom:14px;">
   <a href="https://vesit.ves.ac.in/">
     <img src="assets/vesit-logo.jpg" height="25"/>
   </a>
-  <span><b>Data Lead @ TPC</b> (Sept 2025 – Present)</span>
+  <span><b>Data Intern @ TPC</b> (Oct 2025 – Present)</span>
 </div>
 
 <!-- Jr Webtech Officer -->
@@ -21,7 +14,14 @@
   <a href="https://csivesit.in">
     <img src="assets/csi-logo.jpg" height="25"/>
   </a>
-  <span><b>Jr. Webtech Officer</b> (Oct 2025 – Present)</span>
+  <span><b>Jr. Webtech Officer</b> (Oct 2025 – Apr 2026)</span>
+</div>
+
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:14px;">
+  <a href="https://www.printnoptions.com/">
+    <img src="assets/print-n-options-logo.png" height="25"/>
+  </a>
+  <span><b>SDE Intern</b> (Oct 2025 – Jan 2026)</span>
 </div>
 
 ###
